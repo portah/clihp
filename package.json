@@ -1,0 +1,12 @@
+{
+  "name": "clihp",
+  "version": "0.0.1a",
+  "private": true,
+  "main": "cli.js",
+  "bin": "cli.js",
+  "dependencies": {
+    "minimist": "~1.1.0",
+    "cross-spawn": "~0.2.3",
+    "js-yaml": "~3.4.3"
+  }
+}
